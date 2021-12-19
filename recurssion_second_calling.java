@@ -16,10 +16,10 @@ public class recurssion_second_calling {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		recurssion_second_calling r= new recurssion_second_calling();
-		int x=1;
+		int x=5;
 		r.fun(x);
 
 	}
 
 }
-//out will be 1
+//out will be 1 2 3 4 5
